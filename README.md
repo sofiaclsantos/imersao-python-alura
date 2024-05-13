@@ -15,7 +15,7 @@ Google Sheets
 - Criação de gráficos com base nas informações geradas.
 ```
 
-### 📌 Aula 02
+### 📌 Aula 02 (e aula 03)
 
 Google Colab
 
