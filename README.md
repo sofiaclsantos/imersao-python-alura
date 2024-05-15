@@ -15,7 +15,7 @@ Google Sheets
 - Criação de gráficos com base nas informações geradas.
 ```
 
-### 📌 Aula 02 (e aula 03)
+### 📌 Aula 02/Aula 03
 
 Google Colab
 
@@ -24,6 +24,18 @@ Google Colab
 - Reprodução da tabela do Google Sheets utilizando o Google Colab;
 - Alteração e criação de planilhas, edição e integração de colunas, cálculos estatísticos;
 - Criação do primeiro gráfico com base nas informações geradas (utilizando a biblioteca Plotly Express).
+```
+
+---
+
+### 📌 Aula 04
+
+Google Colab
+
+```
+- Utilização da API do yahoo para dados do mercado financeiro; 
+- Utilização de bibliotecas para construir gráficos de análise financeira;
+- Criação de gráfico de candlesticks de diferentes formas para analisar as variações.
 ```
 
 ---
