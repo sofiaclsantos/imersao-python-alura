@@ -44,7 +44,7 @@ Google Colab
 Google Colab
 
 ```
-- Introdução ao machine learning usando phophet, biblioteca de previsões de séries temporais;
+- Introdução ao machine learning usando Prophet, biblioteca de previsões de séries temporais;
 - Criação de gráfico com previsão x dados reais.
 ```
 ---
